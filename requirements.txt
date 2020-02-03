@@ -8,5 +8,5 @@ cython==0.28.5
 pymongo==3.7.1
 pandas==0.23.4
 pyyaml==3.13
-tensorflow-gpu==1.9.0
+tensorflow-gpu==1.15.2
 
