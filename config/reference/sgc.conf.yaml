@@ -1,0 +1,10 @@
+model_name: "SGC"
+num_layers: 2
+hidden_size: 64   # This value is not used
+dropout_prob: 0   # This value should not be used
+
+learning_rate: 0.05
+weight_decay: 0.005
+
+num_features: 300
+random_selection: True

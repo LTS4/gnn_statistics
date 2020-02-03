@@ -1,0 +1,7 @@
+weight_decay:
+    format: "values"
+    values:
+        - 0.005
+        - 0.001
+        - 0.0005
+    dtype: "float"

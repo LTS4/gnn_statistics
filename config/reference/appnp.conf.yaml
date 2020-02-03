@@ -1,0 +1,10 @@
+model_name: "APPNP"
+num_layers: 4
+teleport_prob: 0.1
+dropout_prob: 0.5
+hidden_size: 64   # Not used
+learning_rate: 0.05
+weight_decay: 0.0005
+
+num_features: 300
+random_selection: True

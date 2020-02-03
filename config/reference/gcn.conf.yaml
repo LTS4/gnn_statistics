@@ -1,0 +1,12 @@
+model_name: "GCN"
+num_layers: 2
+# Maybe change hidden_size to 16
+hidden_size: 64
+dropout_prob: 0.5
+
+learning_rate: 0.01
+weight_decay: 0.0005
+
+#TODO: how to keep by default all features?
+num_features: 300
+random_selection: True
